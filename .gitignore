@@ -1,0 +1,11 @@
+# Dados locais da cidade (perfis, histórico de eventos, log do servidor)
+data/
+
+# Prints e imagens de referência
+img/
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.corrupt
+node_modules/
